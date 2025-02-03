@@ -11,6 +11,8 @@ public class Driver {
 		System.out.println("============Main Execution Start===================\n\n");
 
          //Add your code in between these two print statements
+		
+		Stock.demo();
 		 
 		System.out.println("\n\n============Main Execution End===================");
 	}
